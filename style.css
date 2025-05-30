@@ -26,7 +26,7 @@
     cursor: pointer;
 }
 .info-container{
-    width: 90%;
+    width: 45%;
     max-width: 1080px;
     margin: 20px auto;
     background-color: #f6f6f6;
@@ -39,7 +39,7 @@
 }
 .game-container{
     display: flex;;
-    width: 90% + 20px;
+    width: 45% + 20px;
     max-width: 1080px;
     justify-content: center;
     flex-wrap: wrap;
